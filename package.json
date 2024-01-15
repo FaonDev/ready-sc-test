@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "tsx": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.2"
+  },
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsx ."
+  },
+  "type": "module"
+}
